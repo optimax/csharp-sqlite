@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\SqliteDatabase.cs" />
     <Compile Include="src\SqliteError.cs" />
     <Compile Include="src\SqliteClientFactory.cs" />
     <Compile Include="src\SqliteCommand.cs">
