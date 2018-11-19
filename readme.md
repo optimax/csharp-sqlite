@@ -19,3 +19,5 @@ This fork was created from https://github.com/ericschultz/csharp-sqlite clone by
 - Why this clone and not the original source on Google Code? Because it is easier to fork within GitHub and Eric's version works just fine. 
 
 - Why fork? Why not leave Eric's version alone and just contribute pull requests? Because Eric made his last commit in 2012 and it's unclear if he is "maintaining" the project. We need something that works *today*.
+
+-AJW, optimax.com
