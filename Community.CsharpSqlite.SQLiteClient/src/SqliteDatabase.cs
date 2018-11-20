@@ -163,7 +163,7 @@ namespace Community.CsharpSqlite.SQLiteClient
         {
             if (rec.Count == 0)
                 throw new Exception("Record contains no data to update.");
-            if (string.IsNullOrWhiteSpace(whereClause))
+            if (string.IsNullOrEmpty(whereClause))
                 throw new Exception("You must provide a 'where'-clause.");
             var values = "";
             foreach (var val in rec)

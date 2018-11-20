@@ -31,3 +31,5 @@ syntax: glob
 obj/
 [Rr]elease/
 glob:.hgignore
+storage.ide
+sqlite3
